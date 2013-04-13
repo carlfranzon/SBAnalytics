@@ -23,3 +23,7 @@ Parameters:
 The profile parameter should be the GA profile you want stats for. The best way to find your profile id is to go to GA and open the profile in Report mode. Check the url and find the numbers after the "p".
 
 The profile title is the name of your site.
+
+Example:
+
+http://www.carlfranzon.com/wp-content/uploads/IMG_0408.png
